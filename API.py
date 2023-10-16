@@ -22,7 +22,6 @@ users = [
         "password": "pass456",
         "country": "Canada"
     },
-    # Add more sample data as needed
 ]
 
 
